@@ -16,7 +16,6 @@ public class Packet implements Priceable{
 
     @Override
     public BigDecimal getPrice() {
-
         return PriceCalculation.getTotalProductPrice(productList);
     }
 
