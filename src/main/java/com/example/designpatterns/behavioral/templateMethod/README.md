@@ -2,4 +2,4 @@
 
 * Üst sınıftaki bir algoritmanın isteklerini tanımlayan, ancak bu sınıfların yapısını değiştirmeden algoritmanın belirli adımlarını geçersiz kılmasına
 izin veren davranışsal tasarım modelidir.
-* İstemilerin tüm algoritmayı veya yapısını değil, yalnızca belirli adımlarını genişletmesine izin vermek istediğimizde kullanılır.
+* İstemcilerin tüm algoritmayı veya yapısını değil, yalnızca belirli adımlarını genişletmesine izin vermek istediğimizde kullanılır.
